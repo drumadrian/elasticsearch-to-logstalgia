@@ -1,4 +1,5 @@
-# elasticsearch-to-logstalgia
+
+## elasticsearch-to-logstalgia
 query elasticsearch as a source for the logstalgia visualization
 
 CloudTrail(from Elasticsearch) to Logstalgia
@@ -18,4 +19,4 @@ View on [YouTube](https://youtu.be/KJo4o5wDMIQ):
 
 View on [YouTube in 4K](https://youtu.be/UlloAYG2GII):
 
-![diagram](youtube.png)
+![diagram](cloudtrail_to_logstalgia.gif)
