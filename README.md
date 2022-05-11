@@ -15,7 +15,7 @@ CloudWatch to Logstalgia
 
 ## Example Videos on YouTube
 
-View on [YouTube](https://youtu.be/KJo4o5wDMIQ):
+View on [YouTube](https://youtu.be/PtRwOCQ1zf8):
 
 View on [YouTube in 4K](https://youtu.be/UlloAYG2GII):
 
